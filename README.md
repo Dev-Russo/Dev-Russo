@@ -1,4 +1,4 @@
-### Como vai <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Sou o Murilo!</h1><br/>
+### <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Sou o Murilo!</h1><br/>
 
 <div>
   <a href="https://github.com/Dev-Russo">
