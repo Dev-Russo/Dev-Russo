@@ -1,4 +1,4 @@
-### Oi, tudo bem? Me chamo Murilo Russo.👋
+### Como vai👋
 
 <div>
   <a href="https://github.com/Dev-Russo">
