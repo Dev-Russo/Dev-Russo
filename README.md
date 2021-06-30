@@ -1,4 +1,4 @@
-### Oi tudo bem? 👋
+### Oi, tudo bem? Me chamo Murilo Russo. Obrigado por dar uma olhada no meu perfil.? 👋
 <div>
   <a href="https://github.com/Dev-Russo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Russo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
