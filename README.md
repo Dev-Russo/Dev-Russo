@@ -13,6 +13,12 @@
   <img align="center" alt="Russo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Russo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Russo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="30"/>
+  <img src="https://user-images.githubusercontent.com/50583973/111923290-36cece00-8a7d-11eb-9ad7-2d614e3af27f.png" alt="sql server" width="40" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot net" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>
+  <img src="https://user-images.githubusercontent.com/50583973/111923052-03d80a80-8a7c-11eb-8916-e0bc35091931.png" alt="react native" width="40" height="30"/>
 </div>
   
 ### :gear: - Ferramentas
