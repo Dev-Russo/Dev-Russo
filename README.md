@@ -18,7 +18,7 @@
 ### :gear: - Ferramentas
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="xd" width="25" height="25"/>
-  <img src="https://user-images.githubusercontent.com/50583973/111923548-8f529b00-8a7e-11eb-98b0-e8557c62ea05.png" alt="azure" width="75" height="25"/>
+  <img src="https://user-images.githubusercontent.com/50583973/111923548-8f529b00-8a7e-11eb-98b0-e8557c62ea05.png" alt="azure" width="75" height="25" margin-right="10"/>
   <img src="https://user-images.githubusercontent.com/50583973/111923608-bf9a3980-8a7e-11eb-9550-8c8ba5457d66.png" alt="figma" width="60" height="25"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="40" height="30"/>
   <img src="https://user-images.githubusercontent.com/50583973/111923726-44855300-8a7f-11eb-9702-1190c153f4f0.png" alt="visual studio code" width="25" height="25"/>
