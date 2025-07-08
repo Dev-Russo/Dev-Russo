@@ -48,8 +48,8 @@ Sou apaixonado por tecnologia, desenvolvimento de software e resolução de prob
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuriloRusso&show_icons=true&theme=dracula" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRusso&layout=compact&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dev-Russo&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Russo&layout=compact&theme=dracula" />
 </p>
 
 ---
