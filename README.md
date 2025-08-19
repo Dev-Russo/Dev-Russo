@@ -15,13 +15,13 @@ Sou apaixonado por tecnologia, desenvolvimento de software e resolução de prob
 ### 🧠 Um pouco mais sobre mim
 
 - 🔭 Atualmente estou trabalhando em:  
-  Um jogo educacional de matemática com cartas, batalhas contra chefes e foco no raciocínio lógico e operações matemáticas.
+  Um sistema de automatização de vendas usando LLM's para pequenos empreendedores
 
 - 🌱 Atualmente estou aprendendo:  
   Boas práticas de Clean Architecture, testes automatizados e CI/CD com GitHub Actions.
 
 - 👯 Procuro colaborar em:  
-  Projetos com impacto social, jogos educativos e aplicações com boas práticas.
+  Projetos com impacto social e aplicações com boas práticas.
 
 - 💬 Me pergunte sobre:  
   Desenvolvimento com .NET, React, jogos educativos, organização de eventos e produtividade.
