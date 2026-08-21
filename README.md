@@ -1,57 +1,162 @@
-<h1 align="center">Olá, eu sou o Murilo Russo 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Murilo%20Russo&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20IA%20Aplicada%20%7C%20Full%20Stack&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  <h1>Olá, eu sou Murilo Russo 👋</h1>
+  <p>
+    <strong>Engenheiro de Software</strong> com foco em <strong>IA aplicada</strong>, LLMs, RAG, agentes e sistemas full stack.
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/murilo-russo">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Dev-Russo">
+      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:murilorusso10@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    </a>
+  </p>
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
+## Sobre mim
+
+Desenvolvo software para transformar problemas reais em produtos confiáveis, com especial interesse em sistemas que combinam **engenharia de software, dados e inteligência artificial**.
+
+Atualmente atuo como Engenheiro de Software na **Evolue Digital**, trabalhando com aplicações web full stack, APIs, integrações externas, automação e IA aplicada. Minha experiência também inclui liderança técnica e gestão de projetos na **InfoAlto**, empresa júnior de TI da UFV.
+
+- Construindo o **SARA 2.0**, um assistente virtual com agentes, LangGraph e execução controlada;
+- Criando soluções com **LLMs, RAG, agentes e automações conectadas a dados e processos**;
+- Trabalhando com arquitetura modular, APIs, testes, code review, observabilidade e entregas iterativas;
+- Estudando e aplicando heurísticas, aprendizado de máquina e engenharia de prompts.
+
+    </td>
+    <td width="38%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Dev-Russo&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&text_color=475569&icon_color=2563eb&rank_icon=github" width="100%" alt="Estatísticas do GitHub" />
+    </td>
+  </tr>
+</table>
+
+## Em uma visão
+
+| Área | Experiência |
+| --- | --- |
+| **Foco principal** | IA aplicada, LLMs, RAG, agentes e Engenharia de Software |
+| **Backend** | Python, FastAPI, Java, Spring Boot, Node.js e APIs REST |
+| **Frontend** | React, Vite, JavaScript/TypeScript, HTML e CSS |
+| **Dados e IA** | Pandas, NumPy, Scikit-Learn, ETL, prompt engineering e análise de dados |
+| **Sistemas** | RabbitMQ, cache, webhooks, DNS, Git, Bash e integrações externas |
+| **Formação** | Bacharelado em Sistemas de Informação - UFV |
+
+## Stack principal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cs,react,vite,fastapi,spring,nodejs,postgres,supabase,docker,git,bash&perline=8" alt="Tecnologias" />
+</div>
 
 <p align="center">
-  <em>Desenvolvedor Full Stack | Estudante de Sistemas de Informação | Diretor de Projetos</em>
+  <img src="https://img.shields.io/badge/LLMs-0f172a?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-1d4ed8?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentes_de_IA-2563eb?style=flat-square" alt="Agentes de IA" />
+  <img src="https://img.shields.io/badge/LangGraph-0f766e?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/REST_APIs-475569?style=flat-square" alt="REST APIs" />
 </p>
 
----
+## Projetos em destaque
 
-### 🔍 Sobre mim
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Russo/sara_v2.0">SARA 2.0</a></h3>
+      <p>Assistente virtual de IA que transforma linguagem natural em tarefas executáveis, com LangGraph, agentes, Harness, confirmações persistidas e auditoria.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-0f766e?style=flat-square" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Russo/rag-mitologia">RAG Mitologia</a></h3>
+      <p>Mapa mental vivo de mitologia grega com RAG, LangGraph, ChromaDB e fontes rastreáveis.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-1d4ed8?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-f97316?style=flat-square" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Russo/session-handoff-mcp">Session Handoff MCP</a></h3>
+      <p>Servidor MCP local-first para handoff estruturado entre agentes de programação.</p>
+      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" /> <img src="https://img.shields.io/badge/Local--first-475569?style=flat-square" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Russo/agregador-node-springboot">Agregador Distribuído</a></h3>
+      <p>Sistema distribuído com Java 21, Spring Boot, PostgreSQL, RabbitMQ, WebSocket e replicação entre nós.</p>
+      <p><img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Russo/mathquest-unity">MathQuest Unity</a></h3>
+      <p>Jogo educacional em C# e Unity com resolução por backtracking e notação polonesa reversa.</p>
+      <p><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Russo/olist-analise">Olist Analysis</a></h3>
+      <p>Análise de comportamento de compra em e-commerce com dados, visualizações e recomendações acionáveis.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Analysis-2563eb?style=flat-square" /></p>
+    </td>
+  </tr>
+</table>
 
-Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas reais através da programação. Tenho experiência em sistemas web, jogos educativos e também na produção de eventos. Gosto de aprender coisas novas e transformar ideias em projetos bem estruturados.
+## Experiência
 
----
+| Período | Atuação |
+| --- | --- |
+| **jun/2026 - atual** | **Engenheiro de Software - Evolue Digital**<br />Full stack, React, Vite, JavaScript/TypeScript, Python, APIs, correção de bugs, refatoração, code review e IA aplicada. |
+| **ago/2025 - mar/2026** | **Diretor Presidente - InfoAlto / UFV**<br />Liderança estratégica e técnica, gestão de departamentos e equipes multidisciplinares. |
+| **mar/2024 - ago/2025** | **Diretor de Projetos - InfoAlto / UFV**<br />Planejamento e acompanhamento de projetos, arquitetura, padrões de desenvolvimento e mentoria técnica. |
+| **jul/2025 - dez/2025** | **Monitor Bolsista de Inteligência Artificial - UFV**<br />Apoio em algoritmos de busca, heurísticas, aprendizado de máquina e implementações em Python. |
 
-### 🧠 Um pouco mais sobre mim
+## Formação
 
-- 🔭 Atualmente estou trabalhando em:  
-  Um sistema de automatização de vendas usando LLM's para pequenos empreendedores
+**Bacharelado em Sistemas de Informação**  
+Universidade Federal de Viçosa - UFV · 2022 - 2026
 
-- 🌱 Atualmente estou aprendendo:  
-  Boas práticas de Clean Architecture, testes automatizados e CI/CD com GitHub Actions.
+**Técnico em Desenvolvimento de Sistemas**  
+Escola SENAI de Informática · 2020 - 2021
 
-- 👯 Procuro colaborar em:  
-  Projetos com impacto social e aplicações com boas práticas.
+## GitHub
 
-- 💬 Me pergunte sobre:  
-  Desenvolvimento com .NET, React, jogos educativos, organização de eventos e produtividade.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Russo&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=475569" height="170" alt="Linguagens mais usadas" />
+  <img src="https://streak-stats.demolab.com?user=Dev-Russo&hide_border=true&background=ffffff00&ring=2563eb&fire=f97316&currStreakLabel=2563eb&sideLabels=475569&dates=64748b" height="170" alt="GitHub streak" />
+</div>
 
-- 📫 Como me encontrar:  
-  [LinkedIn](https://www.linkedin.com/in/murilo-russo-544158204/) · [Email profissional](mailto:murilo.russo@outlook.com)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Russo&bg_color=ffffff00&color=2563eb&line=2563eb&point=0f172a&area=true&hide_border=true" width="100%" alt="Gráfico de atividade" />
+</div>
 
-- ⚡ Curiosidade:  
-  Também sou produtor de eventos e organizo o Carnaval de Patos de Minas 🎭
+## Vamos conversar
 
----
+Estou aberto a conversas sobre **IA aplicada, backend, sistemas distribuídos, automação e produtos de software**.
 
-### 💻 Tecnologias e Ferramentas
+<div align="center">
+  <a href="mailto:murilorusso10@gmail.com">murilorusso10@gmail.com</a>
+  ·
+  <a href="https://www.linkedin.com/in/murilo-russo">LinkedIn</a>
+  ·
+  <a href="https://github.com/Dev-Russo">GitHub</a>
+</div>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+  <br />
+  <em>Construindo software com intenção, clareza e impacto.</em>
+</div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" width="100%" />
+</div>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dev-Russo&show_icons=true&theme=dracula" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Russo&layout=compact&theme=dracula" />
-</p>
-
----
-
-<p align="center">💡 Sempre aprendendo, sempre criando.</p>
