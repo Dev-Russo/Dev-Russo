@@ -144,6 +144,8 @@ Escola SENAI de Informática · 2020 - 2021
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Russo&bg_color=ffffff00&color=2563eb&line=2563eb&point=0f172a&area=true&hide_border=true" width="100%" alt="Gráfico de atividade" />
 </div>
+
+
 ## Vamos conversar
 
 Estou aberto a conversas sobre **IA aplicada, backend, sistemas distribuídos, automação e produtos de software**.
