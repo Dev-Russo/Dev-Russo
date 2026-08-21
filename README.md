@@ -39,7 +39,10 @@ Atualmente atuo como Engenheiro de Software na **Evolue Digital**, trabalhando c
 
     </td>
     <td width="38%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dev-Russo&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&text_color=475569&icon_color=2563eb&rank_icon=github" width="100%" alt="Estatísticas do GitHub" />
+      <h3>O que você encontra aqui</h3>
+      <p><strong>IA aplicada</strong><br />LLMs, RAG, agentes e automações conectadas a dados.</p>
+      <p><strong>Engenharia de Software</strong><br />APIs, arquitetura modular, testes e sistemas distribuídos.</p>
+      <p><strong>Projetos em evidência</strong><br />SARA 2.0, RAG Mitologia, MCP e integrações distribuídas.</p>
     </td>
   </tr>
 </table>
@@ -130,15 +133,17 @@ Escola SENAI de Informática · 2020 - 2021
 
 ## GitHub
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Russo&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=475569" height="170" alt="Linguagens mais usadas" />
-  <img src="https://streak-stats.demolab.com?user=Dev-Russo&hide_border=true&background=ffffff00&ring=2563eb&fire=f97316&currStreakLabel=2563eb&sideLabels=475569&dates=64748b" height="170" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/IA_aplicada-2563eb?style=for-the-badge" alt="IA aplicada" />
+  <img src="https://img.shields.io/badge/Engenharia_de_Software-0f172a?style=for-the-badge" alt="Engenharia de Software" />
+  <img src="https://img.shields.io/badge/Sistemas_distribuídos-0f766e?style=for-the-badge" alt="Sistemas distribuídos" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Russo&bg_color=ffffff00&color=2563eb&line=2563eb&point=0f172a&area=true&hide_border=true" width="100%" alt="Gráfico de atividade" />
 </div>
-
 ## Vamos conversar
 
 Estou aberto a conversas sobre **IA aplicada, backend, sistemas distribuídos, automação e produtos de software**.
@@ -159,4 +164,3 @@ Estou aberto a conversas sobre **IA aplicada, backend, sistemas distribuídos, a
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" width="100%" />
 </div>
-
